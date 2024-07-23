@@ -125,7 +125,7 @@ body {
 } 
 
 .port-card .image { 
-    width: 100%; 
+    width: 25%; 
 } 
 
 .port-card .image img { 
@@ -145,6 +145,7 @@ body {
     padding: 0 5rem; 
 
 } 
+
 
 .my-row { 
     display: flex; 
@@ -351,4 +352,24 @@ body {
 
 .blue-text { 
     color: #000000; 
+}
+
+.div1{
+    width:50%;
+    float:inline-start;
+
+}
+
+.div2{
+    width:50%;
+    float:right;
+}
+h5{
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+.listOfJobsDone{
+    background-color: #7ae3c9;
+    width: 100%;
+    max-width: 2000px;
 }
